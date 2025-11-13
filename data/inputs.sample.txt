@@ -1,0 +1,4 @@
+# One Instagram username or full profile URL per line.
+# Lines starting with '#' are ignored.
+
+findajourney
